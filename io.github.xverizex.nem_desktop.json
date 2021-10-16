@@ -33,8 +33,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/xverizex/nem_desktop.git",
-                    "tag" : "v0.1.38",
-		    "commit" : "bc144aa35e9ac5add6ea90b20cf650998ba26d12"
+                    "tag" : "v0.1.40",
+		    "commit" : "e6abde4ae69a46c24b7fb5889e763d4359c360f7"
                 }
             ]
         }
