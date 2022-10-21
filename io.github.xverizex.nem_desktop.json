@@ -1,7 +1,7 @@
 {
     "app-id" : "io.github.xverizex.nem_desktop",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "41",
+    "runtime-version" : "45",
     "sdk" : "org.gnome.Sdk",
     "command" : "nem_desktop",
     "finish-args" : [
@@ -11,7 +11,7 @@
         "--device=dri",
         "--socket=wayland",
         "--socket=pulseaudio",
-	"--filesystem=home"
+        "--filesystem=home"
     ],
     "cleanup" : [
         "/include",
@@ -34,7 +34,7 @@
                     "type" : "git",
                     "url" : "https://github.com/xverizex/nem_desktop.git",
                     "tag" : "v0.1.48",
-		    "commit" : "1f98f1a286c44fdef5f8d5400a3e4e2b8287cc2e"
+                    "commit" : "1f98f1a286c44fdef5f8d5400a3e4e2b8287cc2e"
                 }
             ]
         }
